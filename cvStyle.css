@@ -1,0 +1,44 @@
+h1 {
+background-color: #531A45;
+max-width: 800px;
+}
+
+h2 {
+background-color: #712754;
+max-width: 400px;
+max-height: 30px;
+}
+
+p {
+background-color: #BABDD2;
+
+}
+
+#pave {
+	color: blue;
+	background-color: #BABDD2;
+	font-size: 20px;
+	margin-left: 2900px;
+}
+
+#partieGauche {
+	font-size: 20px;
+	color: red;
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+	width: 250px;
+	height: 957px;
+	float: left;
+	background-color: #350D36;
+}
+
+.me {
+	border-radius: 50%;
+	height: 200px; 
+	width: 200px;
+}
+.contact {
+	padding-bottom: 3px;
+	line-height: 40px;
+}
